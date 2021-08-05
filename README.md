@@ -1,3 +1,3 @@
 # test
 
-so, I an testing making and commiting changes
+so, I am testing making and commiting changes
